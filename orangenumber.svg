@@ -1,5 +1,5 @@
 <svg height="100%" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" version="1.1" viewBox="0 0 120 120" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <g id="background" style="fill:#ffa500;">
+  <g id="background" style="fill:#dadada;">
     <path id="Background" d="M120,12c0,-6.623 -5.377,-12 -12,-12l-96,0c-6.623,0 -12,5.377 -12,12l0,96c0,6.623 5.377,12 12,12l96,0c6.623,0 12,-5.377 12,-12l0,-96Z"/>
   </g>
   <g id="Orange" style="fill:#fff;">
